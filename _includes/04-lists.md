@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Home
+    1. Kitchen
+2. Nature
